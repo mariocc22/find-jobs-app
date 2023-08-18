@@ -1,7 +1,7 @@
 # React Native App to find tech jobs
 
 ## 🚀 How to use
-Welcome to the React Native Tech Job Finder App – a powerful tool designed to streamline your job search in the tech industry. This app utilizes React Native in conjunction with Expo Router to enhance the development process. By interfacing with a RapidAPI-powered API, the app provides access to the latest, active tech jobs available online. The user interface dynamically displays job listings based on the data received from the API.
+React Native Tech Job Finder App – a powerful tool designed to streamline your job search in the tech industry. This app utilizes React Native in conjunction with Expo Router to enhance the development process. By interfacing with a RapidAPI-powered API, the app provides access to the latest, active tech jobs available online. The user interface dynamically displays job listings based on the data received from the API.
 
 ![Home page](/assets/rn_1.jpeg)
 
